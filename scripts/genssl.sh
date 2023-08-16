@@ -1,0 +1,1 @@
+openssl req -x509 -newkey rsa:4096 -nodes -out /tmp/nncert.pem -keyout /tmp/nnkey.pem -days 365
